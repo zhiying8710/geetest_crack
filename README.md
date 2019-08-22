@@ -1,3 +1,5 @@
+`调用接口稍后放出, 每日限制50次, 仅供学习交流`
+
 # geetest极验二代滑动、三代滑动和汉字点选破解
 
 ## 免责声明
@@ -47,7 +49,7 @@
 - darknet(YOLO3)
 - labelImg(YOLO3数据标签工具)
 - opencv(定位滑动缺口距离)
-- selenium
+- pyppeteer
 
 ## 算法
 
