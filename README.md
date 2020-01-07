@@ -1,6 +1,5 @@
-~~[测试接口](https://github.com/zhiying8710/geetest_crack/blob/master/%E6%B5%8B%E8%AF%95%E6%8E%A5%E5%8F%A3.md)`每日限制50次, 仅供学习交流`~~
+[测试接口](https://github.com/zhiying8710/geetest_crack/blob/master/%E6%B5%8B%E8%AF%95%E6%8E%A5%E5%8F%A3.md)`每日限制50次, 仅供学习交流`
 
-测试接口已关闭, 如有需要请邮件联系
 
 [使用极验的网站](https://github.com/zhiying8710/geetest_crack/issues/5)
 
